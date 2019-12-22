@@ -32,3 +32,6 @@ porymap.project.cfg
 .vscode/
 *.a
 .fuse_hidden*
+
+#Dynamaxed generated files
+/generated/
