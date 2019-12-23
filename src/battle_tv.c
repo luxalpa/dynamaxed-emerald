@@ -5,7 +5,7 @@
 #include "battle_tv.h"
 #include "constants/battle_string_ids.h"
 #include "constants/battle_anim.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/species.h"
 #include "battle_message.h"
 #include "tv.h"

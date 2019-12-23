@@ -4,7 +4,7 @@
 #include "malloc.h"
 #include "constants/items.h"
 #include "constants/event_objects.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/songs.h"
 #include "constants/species.h"
 #include "constants/flags.h"

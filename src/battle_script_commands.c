@@ -6,7 +6,7 @@
 #include "battle_anim.h"
 #include "battle_ai_script_commands.h"
 #include "battle_scripts.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/abilities.h"
 #include "item.h"
 #include "constants/items.h"

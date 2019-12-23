@@ -27,7 +27,7 @@
 #include "window.h"
 #include "constants/battle_anim.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/songs.h"
 #include "constants/trainers.h"
 #include "constants/rgb.h"

@@ -71,7 +71,7 @@
 #include "constants/item_effects.h"
 #include "constants/items.h"
 #include "constants/maps.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/party_menu.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"

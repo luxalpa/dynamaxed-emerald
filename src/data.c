@@ -4,7 +4,7 @@
 #include "data.h"
 #include "graphics.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/species.h"
 #include "constants/trainers.h"
 #include "constants/battle_ai.h"
@@ -434,8 +434,7 @@ const u32 gUnknown830AF4C[] =
     0x00000888, 0x00000888, 0x00000888, 0x00000888,
 };
 
-#include "data/trainer_parties.h"
-#include "data/text/trainer_class_names.h"
-#include "data/trainers.h"
+#include "data/generated/trainer_class_names.h"
+#include "data/generated/trainers.h"
 #include "data/text/species_names.h"
-#include "data/text/move_names.h"
+#include "data/generated/move_names.h"

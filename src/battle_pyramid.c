@@ -34,7 +34,7 @@
 #include "constants/items.h"
 #include "constants/layouts.h"
 #include "constants/maps.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/species.h"
 #include "constants/trainers.h"
 

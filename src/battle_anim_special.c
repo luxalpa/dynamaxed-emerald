@@ -17,7 +17,7 @@
 #include "trig.h"
 #include "util.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/songs.h"
 #include "constants/rgb.h"
 

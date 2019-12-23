@@ -2,7 +2,7 @@
 #include "constants/battle_ai.h"
 #include "constants/abilities.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/battle_move_effects.h"
 #include "constants/hold_effects.h"
 #include "constants/pokemon.h"

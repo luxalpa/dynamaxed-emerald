@@ -11,7 +11,7 @@
 #include "random.h"
 #include "util.h"
 #include "pokemon.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "task.h"
 #include "sprite.h"
 #include "sound.h"

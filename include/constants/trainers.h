@@ -1,7 +1,7 @@
 #ifndef GUARD_TRAINERS_H
 #define GUARD_TRAINERS_H
 
-#include "constants/opponents.h"
+#include "generated/trainer_ids.h"
 #include "generated/trainer_classes.h"
 
 // Special Trainer Ids.

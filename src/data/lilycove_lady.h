@@ -2,7 +2,7 @@
 #include "constants/event_objects.h"
 #include "constants/items.h"
 #include "constants/species.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 
 static const u16 sContestLadyMonGfxId[] =
 {

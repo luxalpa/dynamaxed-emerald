@@ -34,4 +34,4 @@ porymap.project.cfg
 .fuse_hidden*
 
 #Dynamaxed generated files
-/generated/
+generated/

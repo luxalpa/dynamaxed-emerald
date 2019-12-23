@@ -47,7 +47,7 @@
 #include "constants/contest.h"
 #include "constants/easy_chat.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/region_map_sections.h"
 #include "constants/rgb.h"
 #include "constants/species.h"

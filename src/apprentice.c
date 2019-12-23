@@ -29,7 +29,7 @@
 #include "constants/songs.h"
 #include "constants/species.h"
 #include "constants/trainers.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 
 /* Summary of Apprentice, because (as of writing at least) its not very well documented online
  *
@@ -118,6 +118,7 @@ static void GetShouldApprenticeLeave(void);
 static void ShiftSavedApprentices(void);
 
 #include "data/battle_frontier/apprentice.h"
+#include "data/generated/moves_apprentice.h"
 
 void BufferApprenticeChallengeText(u8 saveApprenticeId)
 {

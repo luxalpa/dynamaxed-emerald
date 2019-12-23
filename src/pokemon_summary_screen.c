@@ -41,7 +41,7 @@
 #include "tv.h"
 #include "window.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/party_menu.h"
 #include "constants/region_map_sections.h"
 #include "constants/rgb.h"
@@ -297,7 +297,7 @@ static void sub_81C4C84(u8 a);
 static void sub_81C4D18(u8 a);
 
 // const rom data
-#include "data/text/move_descriptions.h"
+#include "data/generated/move_descriptions.h"
 #include "data/text/nature_names.h"
 
 ALIGNED(4) static const struct BgTemplate sUnknown_0861CBB4[] =

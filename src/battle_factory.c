@@ -15,7 +15,7 @@
 #include "constants/frontier_util.h"
 #include "constants/layouts.h"
 #include "constants/trainers.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 
 // IWRAM bss
 static bool8 sPerformedRentalSwap;

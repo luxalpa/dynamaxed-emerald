@@ -13,7 +13,7 @@
 #include "constants/abilities.h"
 #include "constants/battle_ai.h"
 #include "constants/battle_move_effects.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/species.h"
 
 #define AI_ACTION_DONE          0x0001

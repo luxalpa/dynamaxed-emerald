@@ -39,7 +39,7 @@
 #include "constants/layouts.h"
 #include "constants/maps.h"
 #include "constants/metatile_behaviors.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/region_map_sections.h"
 #include "constants/script_menu.h"
 #include "constants/species.h"

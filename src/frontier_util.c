@@ -33,7 +33,7 @@
 #include "constants/trainers.h"
 #include "constants/species.h"
 #include "constants/game_stat.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/items.h"
 #include "constants/event_objects.h"
 #include "party_menu.h"

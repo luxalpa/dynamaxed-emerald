@@ -20,7 +20,7 @@
 #include "list_menu.h"
 #include "overworld.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/region_map_sections.h"
 #include "constants/species.h"
 

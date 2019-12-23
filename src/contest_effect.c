@@ -1,6 +1,6 @@
 #include "global.h"
 #include "random.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "contest.h"
 #include "contest_effect.h"
 

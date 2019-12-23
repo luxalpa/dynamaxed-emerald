@@ -27,7 +27,7 @@
 #include "constants/field_effects.h"
 #include "constants/flags.h"
 #include "constants/maps.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/songs.h"
 #include "constants/species.h"
 

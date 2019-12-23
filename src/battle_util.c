@@ -22,7 +22,7 @@
 #include "constants/berry.h"
 #include "constants/hold_effects.h"
 #include "constants/items.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/species.h"
 #include "constants/weather.h"
 

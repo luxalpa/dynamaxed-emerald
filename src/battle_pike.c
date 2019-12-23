@@ -22,7 +22,7 @@
 #include "constants/rgb.h"
 #include "constants/trainers.h"
 #include "constants/species.h"
-#include "constants/moves.h"
+#include "generated/move_ids.h"
 #include "constants/party_menu.h"
 #include "constants/battle_pike.h"
 
