@@ -23,7 +23,7 @@
 #include "constants/hold_effects.h"
 #include "constants/items.h"
 #include "generated/move_ids.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/weather.h"
 
 // rom const data

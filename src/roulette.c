@@ -27,7 +27,7 @@
 #include "tv.h"
 #include "window.h"
 #include "constants/rgb.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/songs.h"
 
 struct StructgUnknown_083F8DF4

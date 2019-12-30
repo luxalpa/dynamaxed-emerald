@@ -63,7 +63,7 @@
 #include "constants/maps.h"
 #include "constants/region_map_sections.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/trainer_hill.h"
 #include "constants/weather.h"
 

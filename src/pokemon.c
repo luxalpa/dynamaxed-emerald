@@ -44,7 +44,7 @@
 #include "constants/layouts.h"
 #include "generated/move_ids.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/trainers.h"
 
 struct SpeciesItem
@@ -72,7 +72,7 @@ EWRAM_DATA struct SpriteTemplate gMultiuseSpriteTemplate = {0};
 EWRAM_DATA struct Unknown_806F160_Struct *gUnknown_020249B4[2] = {NULL};
 
 // const rom data
-#include "data/battle_moves.h"
+#include "data/generated/battle_moves.h"
 static const u8 sUnreferencedData[] = {0x34, 0x00, 0x10, 0x00, 0x01, 0x01, 0x00, 0x00, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00};
 
 #define SPECIES_TO_HOENN(name)      [SPECIES_##name - 1] = HOENN_DEX_##name
@@ -1364,14 +1364,13 @@ const s8 gNatureStatTable[][5] =
     {    0,  0,  0,     0,     0}, // Quirky
 };
 
-#include "data/pokemon/tmhm_learnsets.h"
+#include "data/generated/tmhm_learnsets.h"
 #include "data/pokemon/trainer_class_lookups.h"
 #include "data/pokemon/cry_ids.h"
 #include "data/pokemon/experience_tables.h"
-#include "data/pokemon/base_stats.h"
-#include "data/pokemon/level_up_learnsets.h"
-#include "data/pokemon/evolution.h"
-#include "data/pokemon/level_up_learnset_pointers.h"
+#include "data/generated/base_stats.h"
+#include "data/generated/level_up_learnsets.h"
+#include "data/generated/evolution.h"
 
 // SPECIES_NONE are ignored in the following two tables, so decrement before accessing these arrays to get the right result
 

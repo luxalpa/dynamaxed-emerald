@@ -9,7 +9,7 @@
 #include "constants/item_effects.h"
 #include "constants/items.h"
 #include "generated/move_ids.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 // this file's functions
 static bool8 HasSuperEffectiveMoveAgainstOpponents(bool8 noRng);

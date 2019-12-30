@@ -2,7 +2,7 @@
 #define GUARD_DATA_H
 
 #include "generated/move_ids.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 #define SPECIES_SHINY_TAG 500
 

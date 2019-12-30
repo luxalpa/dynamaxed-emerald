@@ -51,7 +51,7 @@
 #include "constants/party_menu.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/union_room.h"
 
 EWRAM_DATA u8 sUnionRoomPlayerName[12] = {};

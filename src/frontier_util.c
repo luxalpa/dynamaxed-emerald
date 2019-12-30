@@ -31,7 +31,7 @@
 #include "constants/battle_frontier.h"
 #include "constants/frontier_util.h"
 #include "constants/trainers.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/game_stat.h"
 #include "generated/move_ids.h"
 #include "constants/items.h"

@@ -42,7 +42,7 @@
 #include "generated/move_ids.h"
 #include "constants/region_map_sections.h"
 #include "constants/script_menu.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/tv.h"
 
 // Static type declarations

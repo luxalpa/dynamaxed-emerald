@@ -10,7 +10,7 @@
 #include "new_game.h"
 #include "mevent.h"
 #include "constants/mevent.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 static EWRAM_DATA bool32 gUnknown_02022C70 = FALSE;
 

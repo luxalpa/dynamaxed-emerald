@@ -30,7 +30,7 @@
 #include "constants/trainers.h"
 #include "constants/event_objects.h"
 #include "generated/move_ids.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/easy_chat.h"
 #include "constants/tv.h"
 

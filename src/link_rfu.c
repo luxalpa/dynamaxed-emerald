@@ -15,7 +15,7 @@
 #include "string_util.h"
 #include "task.h"
 #include "text.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "save.h"
 #include "mystery_gift.h"
 

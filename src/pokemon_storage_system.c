@@ -40,7 +40,7 @@
 #include "generated/move_ids.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 struct WallpaperTable
 {

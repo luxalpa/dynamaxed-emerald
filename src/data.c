@@ -5,7 +5,7 @@
 #include "graphics.h"
 #include "constants/items.h"
 #include "generated/move_ids.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/trainers.h"
 #include "constants/battle_ai.h"
 
@@ -436,5 +436,5 @@ const u32 gUnknown830AF4C[] =
 
 #include "data/generated/trainer_class_names.h"
 #include "data/generated/trainers.h"
-#include "data/text/species_names.h"
+#include "data/generated/species_names.h"
 #include "data/generated/move_names.h"

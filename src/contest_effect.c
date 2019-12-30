@@ -55,6 +55,7 @@ static void JamContestant(u8, u8);
 static s16 RoundTowardsZero(s16);
 static s16 RoundUp(s16);
 
+#include "data/generated/contest_moves.h"
 #include "data/contest_moves.h"
 
 bool8 AreMovesContestCombo(u16 lastMove, u16 nextMove)

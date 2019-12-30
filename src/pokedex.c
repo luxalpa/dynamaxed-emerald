@@ -28,7 +28,7 @@
 #include "window.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 // EWRAM
 static EWRAM_DATA struct PokedexView *sPokedexView = NULL;
@@ -239,7 +239,7 @@ void sub_80C2668(u32, const u8*);
 void sub_80C267C(void);
 
 // const rom data
-#include "data/pokemon/pokedex_orders.h"
+#include "data/generated/pokedex_orders.h"
 
 static const struct OamData sOamData_855CFE4 =
 {
@@ -777,8 +777,7 @@ static const u8 sText_TenDashes[] = _("----------");
 
 ALIGNED(4) static const u8 gExpandedPlaceholder_PokedexDescription[] = _("");
 
-#include "data/pokemon/pokedex_text.h"
-#include "data/pokemon/pokedex_entries.h"
+#include "data/generated/pokedex_entries.h"
 
 static const u16 gUnknown_0856E610[] = INCBIN_U16("graphics/pokedex/black.gbapal");
 

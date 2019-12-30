@@ -14,7 +14,7 @@
 #include "decompress.h"
 #include "sound.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/rgb.h"
 #include "random.h"
 

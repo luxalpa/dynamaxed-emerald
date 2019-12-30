@@ -5,7 +5,7 @@
 #include "text.h"
 #include "item.h"
 #include "task.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "save.h"
 #include "load_save.h"
 #include "pokemon.h"

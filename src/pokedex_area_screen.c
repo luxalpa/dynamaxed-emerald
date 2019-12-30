@@ -20,7 +20,7 @@
 #include "constants/region_map_sections.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/vars.h"
 
 #define AREA_SCREEN_WIDTH 32

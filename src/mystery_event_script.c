@@ -9,7 +9,7 @@
 #include "pokemon.h"
 #include "pokemon_size_record.h"
 #include "script.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "strings.h"
 #include "string_util.h"
 #include "text.h"

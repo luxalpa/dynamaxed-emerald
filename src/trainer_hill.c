@@ -29,7 +29,7 @@
 #include "constants/layouts.h"
 #include "generated/move_ids.h"
 #include "constants/maps.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/trainers.h"
 #include "constants/easy_chat.h"
 #include "constants/trainer_hill.h"

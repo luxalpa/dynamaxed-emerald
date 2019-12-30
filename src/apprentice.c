@@ -27,7 +27,7 @@
 #include "constants/items.h"
 #include "constants/pokemon.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/trainers.h"
 #include "generated/move_ids.h"
 

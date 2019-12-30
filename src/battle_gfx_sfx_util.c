@@ -17,7 +17,7 @@
 #include "sound.h"
 #include "party_menu.h"
 #include "m4a.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "decompress.h"
 #include "data.h"
 #include "palette.h"

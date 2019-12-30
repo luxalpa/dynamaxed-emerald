@@ -6,7 +6,7 @@
 #include "generated/move_ids.h"
 #include "constants/region_map_sections.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/vars.h"
 	.include "asm/macros.inc"
 	.include "asm/macros/event.inc"

@@ -9,7 +9,7 @@
 #include "constants/flags.h"
 #include "constants/maps.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/metatile_labels.h"
 #include "fieldmap.h"
 #include "party_menu.h"

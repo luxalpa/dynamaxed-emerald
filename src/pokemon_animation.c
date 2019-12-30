@@ -8,7 +8,7 @@
 #include "util.h"
 #include "constants/battle_anim.h"
 #include "constants/rgb.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 struct UnkAnimStruct
 {

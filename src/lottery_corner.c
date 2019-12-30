@@ -4,7 +4,7 @@
 #include "pokemon.h"
 #include "constants/items.h"
 #include "random.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "string_util.h"
 #include "text.h"
 #include "pokemon_storage_system.h"

@@ -22,7 +22,7 @@
 #include "constants/items.h"
 #include "generated/move_ids.h"
 #include "constants/region_map_sections.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 // this file's functions
 static void ClearDaycareMonMail(struct DayCareMail *mail);
@@ -37,7 +37,7 @@ EWRAM_DATA static u16 sHatchedEggFinalMoves[MAX_MON_MOVES] = {0};
 EWRAM_DATA static u16 sHatchedEggEggMoves[EGG_MOVES_ARRAY_COUNT] = {0};
 EWRAM_DATA static u16 sHatchedEggMotherMoves[MAX_MON_MOVES] = {0};
 
-#include "data/pokemon/egg_moves.h"
+#include "data/generated/egg_moves.h"
 
 static const struct WindowTemplate sDaycareLevelMenuWindowTemplate =
 {

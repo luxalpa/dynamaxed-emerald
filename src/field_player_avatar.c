@@ -29,7 +29,7 @@
 #include "constants/maps.h"
 #include "generated/move_ids.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 static EWRAM_DATA u8 gUnknown_0203734C = 0;
 EWRAM_DATA struct EventObject gEventObjects[EVENT_OBJECTS_COUNT] = {};

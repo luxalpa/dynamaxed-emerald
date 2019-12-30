@@ -13,7 +13,7 @@
 #include "trig.h"
 #include "util.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 extern struct MusicPlayerInfo gMPlayInfo_BGM;
 

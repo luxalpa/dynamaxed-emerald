@@ -2,7 +2,7 @@
 #include "event_data.h"
 #include "field_message_box.h"
 #include "pokedex.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "strings.h"
 
 bool16 ScriptGetPokedexInfo(void)

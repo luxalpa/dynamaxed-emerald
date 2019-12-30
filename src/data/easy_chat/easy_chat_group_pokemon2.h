@@ -1,4 +1,4 @@
-#include "constants/species.h"
+#include "generated/species.h"
 
 const u16 gEasyChatGroup_Pokemon2[] = {
 	SPECIES_ABRA,

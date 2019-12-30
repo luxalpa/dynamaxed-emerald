@@ -21,7 +21,7 @@
 #include "constants/layouts.h"
 #include "constants/rgb.h"
 #include "constants/trainers.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "generated/move_ids.h"
 #include "constants/party_menu.h"
 #include "constants/battle_pike.h"

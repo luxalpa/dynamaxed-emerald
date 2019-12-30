@@ -32,7 +32,7 @@
 #include "graphics.h"
 #include "constants/battle_dome.h"
 #include "constants/frontier_util.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "generated/move_ids.h"
 #include "constants/trainers.h"
 #include "constants/abilities.h"

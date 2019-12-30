@@ -4,7 +4,7 @@
 #include "constants/flags.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/trainers.h"
 #include "decompress.h"
 #include "event_data.h"

@@ -6,7 +6,7 @@
 #include "constants/event_objects.h"
 #include "generated/move_ids.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/flags.h"
 #include "battle.h"
 #include "battle_anim.h"

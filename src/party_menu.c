@@ -75,7 +75,7 @@
 #include "constants/party_menu.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/vars.h"
 
 #define PARTY_PAL_SELECTED     (1 << 0)
@@ -410,6 +410,7 @@ static bool8 SetUpFieldMove_Dive(void);
 
 // static const data
 #include "data/pokemon/tutor_learnsets.h"
+#include "data/generated/tutor_learnsets.h"
 #include "data/party_menu.h"
 
 // code

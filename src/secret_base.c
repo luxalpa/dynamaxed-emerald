@@ -43,7 +43,7 @@
 #include "generated/move_ids.h"
 #include "constants/secret_bases.h"
 #include "constants/songs.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/trainers.h"
 
 struct SecretBaseRegistryMenu

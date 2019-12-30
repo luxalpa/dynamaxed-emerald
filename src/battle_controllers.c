@@ -12,7 +12,7 @@
 #include "task.h"
 #include "util.h"
 #include "constants/abilities.h"
-#include "constants/species.h"
+#include "generated/species.h"
 
 static EWRAM_DATA u8 sLinkSendTaskId = 0;
 static EWRAM_DATA u8 sLinkReceiveTaskId = 0;

@@ -50,7 +50,7 @@
 #include "generated/move_ids.h"
 #include "constants/region_map_sections.h"
 #include "constants/rgb.h"
-#include "constants/species.h"
+#include "generated/species.h"
 #include "constants/songs.h"
 
 #define Trade_SendData(ptr) (SendBlock(bitmask_all_link_players_but_self(), ptr->linkData, 20))
