@@ -35,3 +35,9 @@ porymap.project.cfg
 
 #Dynamaxed generated files
 generated/
+data/tilesets/graphics.inc
+data/tilesets/headers.inc
+data/tilesets/metatiles.inc
+data/tilesets/**/metatile_attributes.bin
+data/tilesets/**/metatiles.bin
+data/tilesets/**/palettes/*.pal
